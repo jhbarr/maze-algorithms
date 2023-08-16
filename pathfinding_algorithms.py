@@ -455,13 +455,6 @@ def main_h_algorithm(start_node,end_node, grid, width, win):
 
 
 
-
-
-
-
-
-
-
 def start_pos(grid):
     for x, y in enumerate(grid):
         for a, b in enumerate(y):
